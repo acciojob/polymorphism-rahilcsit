@@ -7,7 +7,7 @@ public class Main {
 
         int ans1 = p.product(10 , 20 , 30);
         double ans2 = p.product(10.5 , 20.5);
-        System.out.println(ans + " " + ans1 + " " + ans2 + " ");
+        System.out.println(ans + " " + ans1 + " " + ans2);
     }
     public static class Prodcut{
         public int product(int x,int y){
